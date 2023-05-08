@@ -1,0 +1,17 @@
+{
+  "name": "database-nodejs",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "prima connessione a mysql",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Samuele",
+  "license": "ISC",
+  "dependencies": {
+    "@databases/mysql": "^5.2.1",
+    "dotenv": "^16.0.3",
+    "mysql": "^2.18.1"
+  }
+}
